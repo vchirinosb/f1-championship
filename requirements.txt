@@ -1,0 +1,29 @@
+# Plataforma: Jupyter Lab.
+jupyterlab==4.6.6
+
+# Datos.
+pandas==3.1.1
+numpy==2.5.5
+sqlalchemy==2.1.9
+
+# Visualización.
+matplotlib==3.11.2
+bokeh==3.10.2
+playwright==1.65.2
+
+# Machine learning y seguimiento de experimentos.
+scikit-learn==1.9.1
+mlflow==3.18.0
+skops==0.16.0
+
+# API y aplicación web.
+flask==3.1.3
+streamlit==1.67.0
+requests==2.34.2
+
+# LLM local.
+ollama==0.6.3
+rapidfuzz==3.14.6
+
+# Pruebas.
+pytest==9.2.0
